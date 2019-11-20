@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nysa.Data.SqlClient", "Nysa.Data.SqlClient\Nysa.Data.SqlClient.csproj", "{D811130B-7FCE-4373-A2D0-3182EE46A467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nysa.Data.SqlClientDemo", "..\Nysa.Data.SqlClientDemo\Nysa.Data.SqlClientDemo.csproj", "{74C4E033-774C-4475-91CC-E0836CEEB5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D811130B-7FCE-4373-A2D0-3182EE46A467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D811130B-7FCE-4373-A2D0-3182EE46A467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D811130B-7FCE-4373-A2D0-3182EE46A467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D811130B-7FCE-4373-A2D0-3182EE46A467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C4E033-774C-4475-91CC-E0836CEEB5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C4E033-774C-4475-91CC-E0836CEEB5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C4E033-774C-4475-91CC-E0836CEEB5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C4E033-774C-4475-91CC-E0836CEEB5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0594B3B9-81AA-4147-9647-156E84F85117}
+	EndGlobalSection
+EndGlobal
